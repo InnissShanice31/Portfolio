@@ -1,13 +1,13 @@
-# Data Scientist 
+### Data Scientist 
 
-#### Education
+## Education
 Bachelors Business Administration
 
-### Work Experience
+## Work Experience
 Administrative Coordinator at WeSalute
 - Big impact project 1
 - Big impact project 2
 
-### Stakeholder Projects
+## Stakeholder Projects
 
 ### Personal Projects
