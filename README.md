@@ -10,4 +10,4 @@ Administrative Coordinator at WeSalute
 
 ## Stakeholder Projects
 
-### Personal Projects
+## Personal Projects
