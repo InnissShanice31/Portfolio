@@ -1,4 +1,4 @@
-### Data Scientist 
+# Data Scientist 
 
 ## Technical Skills: Python, SQL, Tableau
 
@@ -10,7 +10,7 @@ Administrative Coordinator at WeSalute
 
 ## Learning Projects
 
-# Stock Price Prediction and Investment Strategy Development for Stonehaven Capital
+### Stock Price Prediction and Investment Strategy Development for Stonehaven Capital
 Objective: Analyze how stock prices and company profits relate for Tesla and GameStop. This analysis will guide investment strategies, especially short-selling, for Stonehaven Capital, a startup investment firm.
 
 Process:
@@ -22,7 +22,7 @@ Importance:
 
 This project helps Stonehaven Capital make smart investment decisions by showing how stock prices can be affected by both how well the company is doing and how people feel about the market. This is important because sometimes stock prices don't match how much profit a company makes, like what happened with GameStop's stock recently.
 
-# Employee Attrition Prediction at Cypress Point Advisors
+#### Employee Attrition Prediction at Cypress Point Advisors
 Problem: Cypress Point Advisors, a multinational financial firm, is experiencing costly employee turnover. To address this, the HR department wants to predict which employees are most likely to leave.
 
 Solution: As a data scientist at Cypress Point Advisors, I developed a model to predict employee attrition using a dataset containing information like job satisfaction, performance ratings, and work-life balance.
