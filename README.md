@@ -1,12 +1,21 @@
 # Data Scientist 
 
-#### Technical Skills: Python, SQL, Tableau
+#### Technical Skills: Python, SQL, Tableau, Excel/Google Sheets
 
 ## Education
 B.S., Business Administration | Univeristy of Maryland Global Campus (May 2017)
 
 ## Work Experience
-Administrative Coordinator at WeSalute
+Administrative Coordinator at WeSalute (Apr 2021 - Present)
+- Collect, analyze, and visualize data from various sources to identify trends and inform strategic decisions.   
+- Developed and implemented data-driven process improvements, resulting in a 30% reduction in chargeback response time.   
+- Generated comprehensive financial reports, including accounts receivable & chargeback rates, ensuring accuracy and completeness.   
+- Leveraged data insights to identify and address potential challenges, contributing to improved project outcomes.
+- Successfully spearheaded an initiative to increase the company's dispute resolution rate from 31% to 40% by analyzing data and implementing targeted strategies.
+
+Career Counselor at CareerSource Brevard (October 2018 - September 2020)
+- Gathered and analyzed data on client interests, skills, and values to guide career counseling and identify potential career paths. 
+- Analyzed labor market trends and data, including job outlook and salary information, to provide informed career advice to clients. - Collected and analyzed survey data to measure the effectiveness of interventions and identify areas for improvement.   
 
 ## Stakeholder Projects
 - Big impact project 1
