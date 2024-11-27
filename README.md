@@ -39,12 +39,9 @@ Artificial Neural Networks: Used to capture complex non-linear relationships in 
 Logistic Regression: Suitable for predicting a binary outcome (stay or leave).
 Random Forest: Leverages the power of multiple decision trees for improved accuracy.
 
-Why these tools?
-
-Artificial neural networks excel at finding complex patterns in data, making them suitable for understanding the many factors that can lead to employee attrition.
+Why these tools? Artificial neural networks excel at finding complex patterns in data, making them suitable for understanding the many factors that can lead to employee attrition.
 Logistic regression is specifically designed for predicting whether something will happen or not, in this case, whether an employee will leave.
 Random forests are robust and accurate, often outperforming other models in classification tasks.
-Outcome:
 
-The project delivered a predictive model that identifies employees at risk of leaving. This allows HR to implement proactive measures like improved benefits, career development opportunities, or targeted interventions to retain valuable employees and reduce costs associated with turnover.
+Outcome: The project delivered a predictive model that identifies employees at risk of leaving. This allows HR to implement proactive measures like improved benefits, career development opportunities, or targeted interventions to retain valuable employees and reduce costs associated with turnover.
 
