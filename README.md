@@ -1,6 +1,6 @@
 # Data Scientist 
 
-### Technical Skills: Python, SQL, Tableau
+##### Technical Skills: Python, SQL, Tableau
 
 ## Education
 Bachelors Business Administration
