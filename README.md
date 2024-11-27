@@ -3,8 +3,8 @@
 ##### Technical Skills: Python, SQL, Tableau
 
 ## Education
-Bachelors Business Administration
-
+B.S., Business Administration | Univeristy of Maryland Global Campus (May 2017)
+_______________________________________________________________________________
 ## Work Experience
 Administrative Coordinator at WeSalute
 
