@@ -8,6 +8,10 @@ _______________________________________________________________________________
 ## Work Experience
 Administrative Coordinator at WeSalute
 
+## Stakeholder Projects
+- Big impact project 1
+- Big impact project 2
+
 ## Learning Projects
 
 ### Stock Price Prediction and Investment Strategy Development for Stonehaven Capital
@@ -43,10 +47,4 @@ Random forests are robust and accurate, often outperforming other models in clas
 Outcome:
 
 The project delivered a predictive model that identifies employees at risk of leaving. This allows HR to implement proactive measures like improved benefits, career development opportunities, or targeted interventions to retain valuable employees and reduce costs associated with turnover.
-
-
-
-## Stakeholder Projects
-- Big impact project 1
-- Big impact project 2
 
