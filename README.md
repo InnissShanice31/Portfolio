@@ -7,7 +7,7 @@ B.S., Business Administration | University of Maryland Global Campus (May 2017)
 
 ## Work Experience
 Administrative Coordinator at WeSalute (Apr 2021 - Present)
-- Collected, analyzde, and visualized data from various sources to identify trends and inform strategic decisions.   
+- Collected, analyzed, and visualized data from various sources to identify trends and inform strategic decisions.   
 - Developed and implemented data-driven process improvements, resulting in a 30% reduction in chargeback response time.   
 - Generated comprehensive financial reports, including accounts receivable & chargeback rates, ensuring accuracy and completeness.   
 - Leveraged data insights to identify and address potential challenges, contributing to improved project outcomes.
